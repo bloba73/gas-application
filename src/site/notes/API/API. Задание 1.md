@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/api/api-zadanie-1/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/api/api-zadanie-1/","tags":["gardenEntry"],"created":"2024-09-08T17:21:24.923+03:00","updated":"2024-09-10T17:16:13.452+03:00"}
 ---
 
 
