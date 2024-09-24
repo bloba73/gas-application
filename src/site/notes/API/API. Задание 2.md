@@ -69,6 +69,7 @@
 
 ![rel_us_or.png](/img/user/media/rel_us_or.png)
 <center>Связь User и Oreder (Один-ко-Многим)</center>
+
 ## REST-методы
 
 ### Сущность User
