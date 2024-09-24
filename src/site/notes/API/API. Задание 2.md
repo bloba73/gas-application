@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/api/api-zadanie-2/"}
 ---
 
-
 ## Задание 2. Реализация API посредством strapi
 
 ---
